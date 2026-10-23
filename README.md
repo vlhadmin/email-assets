@@ -1,0 +1,2 @@
+# email-assets
+public pictures
